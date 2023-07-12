@@ -65,9 +65,9 @@ We are very excited to share this dashboard with you and we look forward to hear
 
 - [Start page](https://demos.creative-tim.com/material-dashboard/examples/dashboard.html)
 - [User profile page](https://demos.creative-tim.com/material-dashboard/examples/user.html)
-- [Tables page ](https://demos.creative-tim.com/material-dashboard/examples/tables.html)
+- [Tables page ](https://demos.creative-tim.com/material-dashboard/examples/besoins.php)
 - [Maps Page](https://demos.creative-tim.com/material-dashboard/examples/map.html)
-- [Notifications page](https://demos.creative-tim.com/material-dashboard/examples/notifications.html)
+- [Notifications page](https://demos.creative-tim.com/material-dashboard/examples/notifications.php)
 
 [View More](https://demos.creative-tim.com/material-dashboard/examples/dashboard.html).
 

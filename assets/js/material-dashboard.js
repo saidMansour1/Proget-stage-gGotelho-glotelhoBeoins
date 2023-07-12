@@ -243,7 +243,7 @@ function sidebarType(a) {
   }
 }
 
-// Set Navbar Fixed
+// Set Bare d'option fixe
 function navbarFixed(el) {
   let classes = ['position-sticky', 'blur', 'shadow-blur', 'mt-4', 'left-auto', 'top-1', 'z-index-sticky'];
   const navbar = document.getElementById('navbarBlur');
